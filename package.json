@@ -8,8 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rafamsilva/react-exercices.git"
+    "url": "git+https://github.com/rafamsilva/react-exercices.git"
   },
+  "bugs": {
+    "url": "https://github.com/rafamsilva/react-exercices/issues"
+  },
+  "homepage": "https://github.com/rafamsilva/react-exercices#readme",
   "keywords": [],
   "author": "Rafael de Melo Silva",
   "license": "ISC",
